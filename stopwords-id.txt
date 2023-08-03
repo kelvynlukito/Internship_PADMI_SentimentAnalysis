@@ -779,6 +779,7 @@ gw
 nya
 yy
 ya
+yaa
 yak
 yuk
 ayuk
@@ -839,3 +840,4 @@ gitu
 ado
 pake
 nanya
+gausah
