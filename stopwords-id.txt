@@ -852,9 +852,15 @@ mana
 kemana
 halo
 hai
+Hai
+hi
 hi
 haii
 haiii
 hiii
 hi
 h
+pagi
+siang
+malam
+sore
